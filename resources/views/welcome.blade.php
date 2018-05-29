@@ -49,7 +49,7 @@ Envelope Consulting Services in B.C, Vancouver. Proudly Serving Metro Vancouver,
     <header>
         <!--Navbar justified centered links full width-->
 
-      <nav  class="navbar navbar-expand-md special-color fixed-top " id="my-nav-links">
+      <nav  class="navbar navbar-expand-md navbar-dark fixed-top  bg-dark " id="my-nav-links">
           <div class="container">
               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
