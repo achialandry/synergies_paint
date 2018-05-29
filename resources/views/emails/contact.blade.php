@@ -1,0 +1,11 @@
+Hi,
+
+A synergypainting.com user has sent you a message.
+
+Name: {{ $contact['name'] }}
+
+E-mail: {{ $contact['email'] }}
+
+Subject: {{ $contact['subject']}}
+
+Message: {{ $contact['msg'] }}

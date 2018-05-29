@@ -1,0 +1,222 @@
+/*body*/
+body
+{
+    background: #e5efff!important;
+    position: relative!important;
+}
+
+/*background image landing page*/
+div#landing-page {
+            background: url("../img-assets/landing-page-backgrounds.jpg")no-repeat center center;
+            opacity: 0.75;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            height: 100%;
+            background-position: center;
+        }
+div.black-text{
+    color: #333b49;
+}
+
+
+
+/*carousel on project page*/
+#projects-carousel img {
+    width: auto;
+    max-height: 480px;
+}
+
+div#services-page {
+            background: url("../img-assets/servicesss.jpg")no-repeat center center;
+            opacity: 1;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            word-wrap: break-word;
+        }
+
+div#contact-page {
+                    background: url("../img-assets/Contact_page_background.jpg")no-repeat center center;
+                    opacity: 0.75;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover;
+                }
+
+div#about-page {
+                    background: url("../img-assets/about_page.jpg")no-repeat center center;
+                    opacity: 0.75;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover;
+                }
+
+div#footer-page {
+                    background: url("../img-assets/footer_contact_page.jpg")no-repeat center center;
+                    opacity: 0.75;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover;
+                    max-height: 100vh;
+                }
+hr.services{
+    background-color: #eee;
+    color: #fff;
+    height: 3px;
+}
+
+hr.others{
+    background-color: #000;
+    color: #000;
+    height: 3px;
+}
+
+/*Navigation Menu hover animations*/
+
+   .links {
+     transition: 0.3s ease;
+     color:#fff;
+     font-weight: bold;
+     text-decoration: none;
+   }
+   .links:hover {
+     border-top: 1px solid #ffffff;
+     border-bottom: 1px solid #ffffff;
+     background-color: #1c2331!important;
+
+   }
+/* section.overf
+{
+    overflow: auto;
+} */
+
+.transparent {
+    background:rgba(128,128,128,0.5)no-repeat center center !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100vh;
+
+}
+
+
+
+.active {
+    font-weight: 600;
+    color: #fff;
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+    background-color: #1c2331!important;
+}
+
+
+
+
+
+/*Taylor Services After Landing page*/
+section.bg-primary
+{
+    background:#0e1623!important;
+}
+
+
+/*carousel*/
+#myCarousel
+{
+    background-color: #00235b!important;
+}
+
+#carouselFooter
+{
+    background-color: #00235b!important;
+}
+
+
+/*Services*/
+/* section.services-template-vue
+{ */
+    /* background-position: 60% 25px; */
+    /* background: url(../img-assets/services.jpg) no-repeat fixed center center;
+    background-size:cover;
+    position: relative;
+    z-index: 2; */
+    /* padding: 115px 0px; */
+/* } */
+
+i.fa
+{
+    color: #000;
+}
+
+i.fa-map-marker, i.fa-phone, i.fa-envelope
+{
+    color: #5a5a5a;
+}
+
+section.fadeIn-Services{
+    opacity: 0;
+}
+
+
+/*Projects*/
+@import "http://fonts.googleapis.com/css?family=Roboto:300,400,500,700";
+
+/*About CSS*/
+section#about
+{
+    background: url("../img-assets/rooing-Inspection-min.jpg")no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    max-height: 100vh;
+}
+
+section#contact
+{
+    background: url("../img-assets/building-envelop-John-Taylor.jpg")no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgba(36,56,89,0.8);
+    min-height: 100vh;
+}
+
+/* section#contact:after {
+    content: '';
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-image: linear-gradient(to bottom right,#B0E0E6,#7AC5CD);
+	opacity: 0.4;
+  } */
+
+  h2.text-dark
+  {
+      color: #fff!important;
+      opacity: 1;
+  }
+
+  div.contact
+  {
+      background: #4b4c4c;
+      opacity: 0.7
+  }
+
+
+/*Footer background*/
+footer
+{
+    width: 100%;
+    background-color: #00235b!important;
+}
