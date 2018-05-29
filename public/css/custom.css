@@ -23,10 +23,6 @@ div.black-text{
 
 
 /*carousel on project page*/
-#projects-carousel img {
-    width: auto;
-    max-height: 480px;
-}
 
 div#services-page {
             background: url("../img-assets/servicesss.jpg")no-repeat center center;

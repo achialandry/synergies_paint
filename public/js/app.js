@@ -47357,10 +47357,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -47438,17 +47434,12 @@ var staticRenderFns = [
         ]),
         _vm._v(" "),
         _c("div", { staticClass: "row text-center" }, [
-          _c("div", { staticClass: "col-md-12 text-center" }, [
-            _c("h6", { staticClass: "h6-responsive black-text" }, [
-              _c("b", [_vm._v("RESIDENTIAL & COMMERCIAL PAINTING SERVICES")])
-            ])
-          ])
-        ]),
-        _c("br"),
-        _vm._v(" "),
-        _c("div", { staticClass: "row text-center" }, [
           _c("div", { staticClass: "col-md-6 offset-md-3 text-center" }, [
             _c("br"),
+            _vm._v(" "),
+            _c("h6", { staticClass: "h6-responsive black-text" }, [
+              _c("b", [_vm._v("RESIDENTIAL & COMMERCIAL PAINTING SERVICES")])
+            ]),
             _vm._v(" "),
             _c("h6", { staticClass: "h6-responsive black-text" }, [
               _c("b", [
@@ -48193,6 +48184,7 @@ var render = function() {
                                     )
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48223,9 +48215,11 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(2)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48258,7 +48252,8 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                )
+                                ),
+                                _c("br")
                               ])
                             ]),
                             _vm._v(" "),
@@ -48296,6 +48291,7 @@ var render = function() {
                                     )
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48329,6 +48325,7 @@ var render = function() {
                                     )
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48361,7 +48358,8 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                )
+                                ),
+                                _c("br")
                               ])
                             ]),
                             _vm._v(" "),
@@ -48396,7 +48394,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(7)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 ),
                                 _vm._v(" "),
@@ -48432,6 +48431,7 @@ var render = function() {
                                     )
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48464,7 +48464,8 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                )
+                                ),
+                                _c("br")
                               ])
                             ]),
                             _vm._v(" "),
@@ -48502,6 +48503,7 @@ var render = function() {
                                     )
                                   ]
                                 ),
+                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
@@ -48532,7 +48534,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(11)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 ),
                                 _vm._v(" "),
@@ -48565,7 +48568,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(12)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 )
                               ])
@@ -48576,7 +48580,8 @@ var render = function() {
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto "
                                   },
                                   [
                                     _c(
@@ -48602,7 +48607,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(13)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 ),
                                 _vm._v(" "),
@@ -48635,7 +48641,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(14)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 ),
                                 _vm._v(" "),
@@ -48668,7 +48675,8 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(15)
                                       ]
-                                    )
+                                    ),
+                                    _c("br")
                                   ]
                                 )
                               ])
@@ -49022,11 +49030,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
-//
-//
-//
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -49069,19 +49072,7 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "SYNERGY PAINTING HAS BEEN IN THE PAINTNG INDUSTRY SINCE 2009. WITH OUR DECADE OF EXPERIENCE WE CAN GUARANTEE\nA PROFESSIONAL GRADE, HIGH QUALITY PAININTING EVERY TIME. WE PROVIDE A THOROUGH EVALUATION OF THE WORK THAT\nYOU WOULD LIKE TO GET DO AND WE SPEND THE TIME MAKING EVERY PROJECT IMPRESSIONABLE TO THE HOME, STRATA OR\nCOMMERCIAL OWNER."
-                )
-              ]),
-              _vm._v(" "),
-              _c("p", [
-                _vm._v(
-                  "SYNERGY PAINTING FOLLOWS STRICT GUIDELINES TO MEET THE CLIENTS GOALS, EXPECTATIONS AND\n                    DEADLINES ON EVERY PROJECT WITH OUR YEARS OF EXPERTISE IN THE INDUSTRY.\n                    "
-                )
-              ]),
-              _vm._v(" "),
-              _c("p", [
-                _vm._v(
-                  "WE PROVIDE OUR SERVICES IN VANCOUVER, RICHMOND, TSAWASSEN, DELTA, BURNABY & THE TRI-CITIES, & THE REST OF THE FRASER\n                    VALLEY."
+                  "SYNERGY PAINTING HAS BEEN IN THE PAINTNG INDUSTRY SINCE 2009. WITH OUR DECADE OF EXPERIENCE WE CAN GUARANTEE\nA PROFESSIONAL GRADE, HIGH QUALITY PAININTING EVERY TIME. WE PROVIDE A THOROUGH EVALUATION OF THE WORK THAT\nYOU WOULD LIKE TO GET AND WE SPEND THE TIME MAKING EVERY PROJECT IMPRESSIONABLE TO THE HOME, STRATA OR\nCOMMERCIAL OWNER."
                 )
               ])
             ])
@@ -49173,6 +49164,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -49218,6 +49214,18 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "col-md-8 offset-md-2 text-center" }, [
+      _c("p", [
+        _vm._v(
+          "SYNERGY PAINTING FOLLOWS STRICT GUIDELINES TO MEET THE CLIENTS GOALS, EXPECTATIONS AND\n                DEADLINES ON EVERY PROJECT WITH OUR YEARS OF EXPERTISE IN THE INDUSTRY.\n                "
+        )
+      ]),
+      _vm._v(" "),
+      _c("p", [
+        _vm._v(
+          "WE PROVIDE OUR SERVICES IN VANCOUVER, RICHMOND, TSAWASSEN, DELTA, BURNABY & THE TRI-CITIES, & THE REST OF THE FRASER\n                VALLEY."
+        )
+      ]),
+      _vm._v(" "),
       _c("p", [
         _vm._v(
           "SYNERGY PAINTING HAS BEEN IN THE PAINTNG INDUSTRY SINCE 2009. WITH OUR DECADE OF EXPERIENCE WE CAN GUARANTEE\nA PROFESSIONAL GRADE, HIGH QUALITY PAININTING EVERY TIME. WE PROVIDE A THOROUGH EVALUATION OF THE WORK THAT\nYOU WOULD LIKE TO GET DO AND WE SPEND THE TIME MAKING EVERY PROJECT IMPRESSIONABLE TO THE HOME, STRATA OR\nCOMMERCIAL OWNER. SYNERGY PAINTING FOLLOWS STRICT GUIDELINES TO MEET THE CLIENTS GOALS, EXPECTATIONS AND\nDEADLINES ON EVERY PROJECT WITH OUR YEARS OF EXPERTISE IN THE INDUSTRY.\n"

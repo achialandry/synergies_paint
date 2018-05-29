@@ -22,12 +22,8 @@
 
                 </div>
                 <div class="row text-center">
-                    <div class="col-md-12 text-center">
-                        <h6 class="h6-responsive black-text"><b>RESIDENTIAL & COMMERCIAL PAINTING SERVICES</b></h6>
-                    </div>
-                </div><br>
-                <div class="row text-center">
                     <div class="col-md-6 offset-md-3 text-center"><br>
+                        <h6 class="h6-responsive black-text"><b>RESIDENTIAL & COMMERCIAL PAINTING SERVICES</b></h6>
                         <h6 class="h6-responsive black-text"><b>SYNERGY PAINTING HAS SERVED THE GREATER VANCOUVER AREA SINCE 2009 WITH THE HIGHEST QUALITY
 OF SERVICE AND COMPETITIVE PRICE.</b></h6>
                     </div>

@@ -27,7 +27,7 @@
                                                                 <h3 class="h3-responsive">Fairmont Hotel, Penthouse Painting</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                                 <div class="col-md-4 text-center  mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/fairmont_hotel_pentouse_painting_commerical_residential.jpg'" alt="Project gallery Fair mont Hotel, Pent house Painting, Commercial, ressidential">
@@ -35,8 +35,8 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">Fair mont Hotel, Pent house Painting, Commercial, ressidential</h3>
                                                             </div>
-                                                    </div>
-                                                </div>
+                                                    </div><br>
+                                                </div><br>
                                                 <div class="col-md-4 text-center mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/penthouse_commercial_building.jpg'" alt="Project Gallery Penthouse, Commercial, Building">
@@ -45,7 +45,7 @@
                                                                 <h3 class="h3-responsive">Penthouse, Commercial, Building</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                             </div>
                                         </div>
                                         <!--/First slide-->
@@ -60,7 +60,7 @@
                                                                 <h3 class="h3-responsive">Penthouse, Building, Commercial</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                                 <div class="col-md-4 text-center  mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/building_commerical_penthouse.jpg'" alt="Project gallery Building, Commercial, Penthouse">
@@ -69,7 +69,7 @@
                                                                 <h3 class="h3-responsive">Building, Commercial, Penthouse</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                                 <div class="col-md-4 text-center mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/before_tall_timbers_strata.jpg'" alt="Project Gallery Before Tall Timbers Strata">
@@ -78,7 +78,7 @@
                                                                 <h3 class="h3-responsive">Before Tall Timbers Strata</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                             </div>
                                         </div>
                                         <!--/Second slide-->
@@ -92,7 +92,7 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">Commercial Stairwell</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                                 <div class="col-md-4 text-center  mx-auto">
                                                     <div class="view overlay hm-blue-light">
@@ -102,7 +102,7 @@
                                                                 <h3 class="h3-responsive">Commercial Painting Stairwell</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                                 <div class="col-md-4 text-center mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/penthouse_building_commercial.jpg'" alt="Project Gallery Penthouse, Building, Commercial">
@@ -111,7 +111,7 @@
                                                                 <h3 class="h3-responsive">Penthouse, Building, Commercial</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                             </div>
 
                                         </div>
@@ -128,7 +128,7 @@
                                                                 <h3 class="h3-responsive">Residential Painters</h3>
                                                             </div>
                                                     </div>
-                                                </div>
+                                                </div><br>
                                                 <div class="col-md-4 text-center  mx-auto">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/residential_painters_townhomes.jpg'" alt="Project gallery Commercial Painting Stairwell">
@@ -136,7 +136,7 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">Residential Painters, Townhomes</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                                 <div class="col-md-4 text-center mx-auto">
                                                     <div class="view overlay hm-blue-light">
@@ -145,7 +145,7 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">Residential Painters,townhomes, condos</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                             </div>
 
@@ -155,14 +155,14 @@
                                         <!--Fifth slide-->
                                         <div class="carousel-item">
                                             <div class="row">
-                                                <div class="col-md-4 text-center  mx-auto">
+                                                <div class="col-md-4 text-center  mx-auto ">
                                                     <div class="view overlay hm-blue-light">
                                                         <img class="img-fluid" :src="'img-assets/after_tall_timbers_residential.jpg'" alt="Project gallery After Tall Timbers Residential">
                                                         <div class="mask rgba-black-slight"></div>
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">After Tall Timbers Residential</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                                 <div class="col-md-4 text-center  mx-auto">
                                                     <div class="view overlay hm-blue-light">
@@ -171,7 +171,7 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">After Tall Timbers Townhomes</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                                 <div class="col-md-4 text-center mx-auto">
                                                     <div class="view overlay hm-blue-light">
@@ -180,7 +180,7 @@
                                                             <div class="mask container flex-center waves-effect waves-light">
                                                                 <h3 class="h3-responsive">Before Tall Timbers</h3>
                                                             </div>
-                                                    </div>
+                                                    </div><br>
                                                 </div>
                                             </div>
 
