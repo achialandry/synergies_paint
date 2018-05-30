@@ -30,7 +30,7 @@ class ContactEmail extends Mailable
     public function build()
     {
         return $this
-        ->to('akwo776@gmail.com')
+        ->to('infosynergypainting@gmail.com')
         ->subject('New Mail from Synergy Painters Website')
         ->view('emails.contact');
     }
