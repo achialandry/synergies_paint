@@ -8,7 +8,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', ' Synergy Painting, BC, Canada.') }}</title>
+    <title>Synergy Painting, BC, Canada</title>
 
     <meta name="description" content="Roofing, Waterproofing, Concrete, Building
 Envelope Consulting Services in B.C, Vancouver. Proudly Serving Metro Vancouver, All Lower Mainland, and Fraser Valley Locations of B.C">

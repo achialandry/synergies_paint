@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Synergy Painting'),
+    'name' => env('APP_NAME', 'Synergy-Painting'),
 
     /*
     |--------------------------------------------------------------------------
