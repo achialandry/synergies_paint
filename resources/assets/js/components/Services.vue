@@ -12,7 +12,7 @@
                       <div class="container">
                           <div class="row">
                               <div class="col-md-12 text-center ml-0 pl-0 mr pr-0">
-                                  <h6 class="h6-responsive white-text">WE PROVIDE SERVICES TO HOME OWNERS, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,
+                                  <h6 class="h6-responsive white-text">WE PROVIDE SERVICES TO HOME, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,
     PROPERTY MANAGEMENT COMPANIES & BUILDING ONWERS.
     SYNERGY PAINTING HAS THE EXPERTISE REQUIRED TO MANAGE ANY PROJECT SIZE & SCALE FROM A HOME
     RENOVATION TO SMALL, MEDIUM AND LARGE CONSTRUCTION SITES. WE ARE THOROUGH AND DETAILED IN
