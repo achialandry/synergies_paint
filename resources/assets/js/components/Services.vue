@@ -50,7 +50,7 @@
                                   <div class="col-md-4">
                                       <div class="row">
                                           <div class="col-md-12 text-center white-text mb-1">
-                                               <i class="far fa-hospital fa-5x"></i>
+                                               <i class="far fa-building fa-5x"></i>
                                           </div>
                                          <div class="col-md-12 text-center">
                                              <h6 class="h6-responsive white-text pb-1">STRATA PAINTING</b></h6>

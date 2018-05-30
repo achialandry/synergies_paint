@@ -24,7 +24,7 @@ class ContactController extends Controller
         $contact['message'] = $request->get('message');
 
         //message delivery logic
-        Mail::to('akwo776@gmail.com')->send(new ContactEmail($contact));
+        Mail::to('info@paintingsynergy.ca')->send(new ContactEmail($contact));
 
         flash('Your message has been sent, You should hear from us soonest!')-> success();
 

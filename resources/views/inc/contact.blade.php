@@ -22,26 +22,26 @@
                               {!! Form::open(['route' => 'contact.store', 'class' => 'form']) !!}
                               <div class="md-form">
                                   <div class="md-form">
-                                  {!! Form::label('name', 'Name') !!}
+                                  {!! Form::label('name', 'Name', ['class' => 'white-text']) !!}
                                   {!! Form::text('name', null, ['class' => 'form-control']) !!}
                                   </div>
                               </div>
 
                               <div class="md-form">
                                   <div class="md-form">
-                                  {!! Form::label('email', 'Email') !!}
+                                  {!! Form::label('email', 'Email', ['class' => 'white-text']) !!}
                                   {!! Form::text('email', null, ['class' => 'form-control']) !!}
                                   </div>
                               </div>
                               <div class="md-form">
                                   <div class="md-form">
-                                  {!! Form::label('subject', 'Subject') !!}
+                                  {!! Form::label('subject', 'Subject', ['class' => 'white-text']) !!}
                                   {!! Form::text('subject', null, ['class' => 'form-control']) !!}
                                   </div>
                               </div>
                               <div class="md-form">
                                   <div class="md-form">
-                                  {!! Form::label('message', 'Message') !!}
+                                  {!! Form::label('message', 'Message', ['class' => 'white-text']) !!}
                                   {!! Form::textarea('message', null, ['class' => 'form-control']) !!}
                                   </div>
                               </div>

@@ -113,9 +113,6 @@ hr.others{
 }
 
 
-
-
-
 /*Taylor Services After Landing page*/
 section.bg-primary
 {
@@ -134,17 +131,6 @@ section.bg-primary
     background-color: #00235b!important;
 }
 
-
-/*Services*/
-/* section.services-template-vue
-{ */
-    /* background-position: 60% 25px; */
-    /* background: url(../img-assets/services.jpg) no-repeat fixed center center;
-    background-size:cover;
-    position: relative;
-    z-index: 2; */
-    /* padding: 115px 0px; */
-/* } */
 
 i.fa
 {
@@ -185,17 +171,6 @@ section#contact
     background-color: rgba(36,56,89,0.8);
     min-height: 100vh;
 }
-
-/* section#contact:after {
-    content: '';
-	position: absolute;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	background-image: linear-gradient(to bottom right,#B0E0E6,#7AC5CD);
-	opacity: 0.4;
-  } */
 
   h2.text-dark
   {

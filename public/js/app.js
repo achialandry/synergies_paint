@@ -47744,7 +47744,7 @@ var staticRenderFns = [
                         {
                           staticClass: "col-md-12 text-center white-text mb-1"
                         },
-                        [_c("i", { staticClass: "far fa-hospital fa-5x" })]
+                        [_c("i", { staticClass: "far fa-building fa-5x" })]
                       ),
                       _vm._v(" "),
                       _c("div", { staticClass: "col-md-12 text-center" }, [
@@ -48094,6 +48094,30 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -48114,7 +48138,7 @@ var render = function() {
     { staticClass: "container-fluid", attrs: { id: "projects-page" } },
     [
       _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "row mt-5" }, [
+        _c("div", { staticClass: "row mt-5 mb-5" }, [
           _c("div", { staticClass: "col-12 text-center" }, [
             _c("div", { staticClass: "row mt-2 mb-2" }, [
               _c("div", { staticClass: "col-md-12" }, [
@@ -48132,7 +48156,9 @@ var render = function() {
                 _vm._v(" "),
                 _c(
                   "div",
-                  { staticClass: "col-md-8 offset-md-2 mx-auto text-center" },
+                  {
+                    staticClass: "col-md-8 offset-md-2 mx-auto mb-1 text-center"
+                  },
                   [
                     _c(
                       "div",
@@ -48156,7 +48182,8 @@ var render = function() {
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48184,12 +48211,12 @@ var render = function() {
                                     )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48215,16 +48242,15 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(2)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48252,8 +48278,7 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                ),
-                                _c("br")
+                                )
                               ])
                             ]),
                             _vm._v(" "),
@@ -48262,7 +48287,8 @@ var render = function() {
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48291,12 +48317,12 @@ var render = function() {
                                     )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48325,12 +48351,12 @@ var render = function() {
                                     )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48358,8 +48384,7 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                ),
-                                _c("br")
+                                )
                               ])
                             ]),
                             _vm._v(" "),
@@ -48368,7 +48393,8 @@ var render = function() {
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48394,15 +48420,15 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(7)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 ),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48431,12 +48457,12 @@ var render = function() {
                                     )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48464,8 +48490,7 @@ var render = function() {
                                       ]
                                     )
                                   ]
-                                ),
-                                _c("br")
+                                )
                               ])
                             ]),
                             _vm._v(" "),
@@ -48474,7 +48499,8 @@ var render = function() {
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48503,12 +48529,12 @@ var render = function() {
                                     )
                                   ]
                                 ),
-                                _c("br"),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48534,15 +48560,15 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(11)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 ),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48568,8 +48594,7 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(12)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 )
                               ])
@@ -48581,7 +48606,7 @@ var render = function() {
                                   "div",
                                   {
                                     staticClass:
-                                      "col-md-4 text-center  mx-auto "
+                                      "col-md-4 text-center  mx-auto mb-1 "
                                   },
                                   [
                                     _c(
@@ -48607,15 +48632,15 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(13)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 ),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center  mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48641,15 +48666,15 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(14)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
                                   ]
                                 ),
                                 _vm._v(" "),
                                 _c(
                                   "div",
                                   {
-                                    staticClass: "col-md-4 text-center mx-auto"
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
                                   },
                                   [
                                     _c(
@@ -48675,8 +48700,109 @@ var render = function() {
                                         _vm._v(" "),
                                         _vm._m(15)
                                       ]
-                                    ),
-                                    _c("br")
+                                    )
+                                  ]
+                                )
+                              ])
+                            ]),
+                            _vm._v(" "),
+                            _c("div", { staticClass: "carousel-item" }, [
+                              _c("div", { staticClass: "row" }, [
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1 "
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "view overlay hm-blue-light"
+                                      },
+                                      [
+                                        _c("img", {
+                                          staticClass: "img-fluid",
+                                          attrs: {
+                                            src:
+                                              "img-assets/Room_Wall_Specials.jpg",
+                                            alt: "Room Wall Specials"
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("div", {
+                                          staticClass: "mask rgba-black-slight"
+                                        }),
+                                        _vm._v(" "),
+                                        _vm._m(16)
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "col-md-4 text-center  mx-auto mb-1"
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "view overlay hm-blue-light"
+                                      },
+                                      [
+                                        _c("img", {
+                                          staticClass: "img-fluid",
+                                          attrs: {
+                                            src:
+                                              "img-assets/1_floor_specials.jpg",
+                                            alt: "1 Floor Specials"
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("div", {
+                                          staticClass: "mask rgba-black-slight"
+                                        }),
+                                        _vm._v(" "),
+                                        _vm._m(17)
+                                      ]
+                                    )
+                                  ]
+                                ),
+                                _vm._v(" "),
+                                _c(
+                                  "div",
+                                  {
+                                    staticClass:
+                                      "col-md-4 text-center mx-auto mb-1"
+                                  },
+                                  [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "view overlay hm-blue-light"
+                                      },
+                                      [
+                                        _c("img", {
+                                          staticClass: "img-fluid",
+                                          attrs: {
+                                            src: "img-assets/Office_Paint.jpg",
+                                            alt: "Office Specials"
+                                          }
+                                        }),
+                                        _vm._v(" "),
+                                        _c("div", {
+                                          staticClass: "mask rgba-black-slight"
+                                        }),
+                                        _vm._v(" "),
+                                        _vm._m(18)
+                                      ]
+                                    )
                                   ]
                                 )
                               ])
@@ -48690,38 +48816,6 @@ var render = function() {
               ])
             ])
           ])
-        ])
-      ]),
-      _vm._v(" "),
-      _c("div", { staticClass: "row" }, [
-        _c("div", { staticClass: "col-md-4 mx-auto text-center" }, [
-          _c("img", {
-            staticClass: "img-fluid",
-            attrs: {
-              src: "img-assets/Room_Wall_Specials.jpg",
-              alt: "Room Wall Specials"
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-md-4 mx-auto text-center" }, [
-          _c("img", {
-            staticClass: "img-fluid",
-            attrs: {
-              src: "img-assets/1_floor_specials.jpg",
-              alt: "1 Floor Specials"
-            }
-          })
-        ]),
-        _vm._v(" "),
-        _c("div", { staticClass: "col-md-4 mx-auto text-center" }, [
-          _c("img", {
-            staticClass: "img-fluid",
-            attrs: {
-              src: "img-assets/Office_Paint.jpg",
-              alt: "Office Specials"
-            }
-          })
         ])
       ])
     ]
@@ -48946,6 +49040,40 @@ var staticRenderFns = [
           _vm._v("Before Tall Timbers")
         ])
       ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "mask container flex-center waves-effect waves-light" },
+      [
+        _c("h3", { staticClass: "h3-responsive" }, [
+          _vm._v(" Room Wall Specials")
+        ])
+      ]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "mask container flex-center waves-effect waves-light" },
+      [_c("h3", { staticClass: "h3-responsive" }, [_vm._v(" Floor Specials")])]
+    )
+  },
+  function() {
+    var _vm = this
+    var _h = _vm.$createElement
+    var _c = _vm._self._c || _h
+    return _c(
+      "div",
+      { staticClass: "mask container flex-center waves-effect waves-light" },
+      [_c("h3", { staticClass: "h3-responsive" }, [_vm._v("Office Specials")])]
     )
   }
 ]
