@@ -8,4 +8,4 @@ E-mail: {{ $contact['email'] }}
 
 Subject: {{ $contact['subject']}}
 
-Message: {{ $contact['msg'] }}
+Message: {{ $contact['message'] }}
