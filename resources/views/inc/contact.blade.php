@@ -71,11 +71,9 @@
                   </div>
                   <div class="row">
                       <div class="col-md-4 offset-md-4 text-center mt-0 mb-2">
-                          <a href="https://www.synergypainting.com">@2018 Synergy Painting.</a>
+                          <a href="https://www.synergypainting.ca">@2018 Synergy Painting.</a>
                       </div>
                   </div>
-
-
               </div>
           </div>
       </div>
