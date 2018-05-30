@@ -58,7 +58,8 @@
                                     </ul>
                                 </div>
                               @endif
-                          </div>
+                              @include('flash::message')
+                          </div><br><br><br>
                       </div>
                   </div>
           </div>

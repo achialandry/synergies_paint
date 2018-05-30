@@ -28,7 +28,7 @@ class ContactController extends Controller
 
         flash('Your message has been sent, You should hear from us soonest!')-> success();
 
-        return redirect()->route('contact.create');
+        return redirect()->to('/');
 
     }
 }
