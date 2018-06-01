@@ -1,22 +1,22 @@
 <!-- Footer================================================== -->
       <div class="container-fluid" id="footer-page">
           <div class="row ">
-              <div class="col-md-4 offset-md-4 col-sm-4 mx-auto text-center mt-3"><br>
+              <div class="col-md-4 offset-md-4 col-sm-4 mx-auto text-center mt-3"><br><br><br><br><br><br><br>
                   <h1 class="h1-responsive elegant-text">CONTACT</h1>
 
               </div>
           </div>
           <div class="row mt-2">
                   <div class="container">
-                      <div class="row">
+                      <div class="row"><br><br><br><br><br><br>
                           <div class="col-md-10 offset-md-1">
                               <hr class="services">
-                          </div>
+                          </div><br><br><br><br><br><br>
 
-                          <div class="col-md-5 offset-md-1 text-left elegant-text">
-                              <p>EMAIL: INFO@PAINTINGSYNERGY.CA</p><br>
-                              <p>PHONE:778-237-0684</p><br>
-                              <p>OPENING HOURS: MON - FRI: 7AM - 6PM SATURDAY: 8AM - 6PM</p><br>
+                          <div class="col-md-5 offset-md-1 text-left elegant-text bg-light info-bg"><br><br>
+                              <p><i class="far fa-envelope fa-1x mr-2"></i><strong>EMAIL: INFO@PAINTINGSYNERGY.CA</strong></p><br>
+                              <p><i class="fas fa-phone fa-1x mr-2"></i><strong>PHONE:778-237-0684</strong></p><br>
+                              <p><i class="far fa-clock fa-1x mr-2"></i><strong>OPENING HOURS: MON - FRI: 7AM - 6PM SATURDAY: 8AM - 6PM</strong></p><br>
                           </div>
                           <div class="col-md-4 text-left">
                               {!! Form::open(['route' => 'contact.store', 'class' => 'form']) !!}
@@ -62,7 +62,7 @@
                           </div><br><br><br>
                       </div>
                   </div>
-          </div>
+          </div><br><br><br><br><br><br>
           <div class="row bg-dark ">
               <div class="col-md-6 offset-md-3 text-center">
                   <div class="row">

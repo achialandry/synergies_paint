@@ -47632,7 +47632,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
-//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -47660,6 +47659,15 @@ var staticRenderFns = [
       { staticClass: "container-fluid", attrs: { id: "services-page" } },
       [
         _c("div", { staticClass: "row" }, [
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _c("br"),
+          _vm._v(" "),
           _c(
             "div",
             {
@@ -47678,7 +47686,7 @@ var staticRenderFns = [
           )
         ]),
         _vm._v(" "),
-        _c("div", { staticClass: "row mb-2" }, [
+        _c("div", { staticClass: "row mb-0" }, [
           _c("div", { staticClass: "col-md-6 offset-md-3 " }, [
             _c("div", { staticClass: "container" }, [
               _c("div", { staticClass: "row" }, [
@@ -47688,7 +47696,7 @@ var staticRenderFns = [
                   [
                     _c("h6", { staticClass: "h6-responsive white-text" }, [
                       _vm._v(
-                        "WE PROVIDE SERVICES TO HOME, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,\nPROPERTY MANAGEMENT COMPANIES & BUILDING ONWERS.\nSYNERGY PAINTING HAS THE EXPERTISE REQUIRED TO MANAGE ANY PROJECT SIZE & SCALE FROM A HOME\nRENOVATION TO SMALL, MEDIUM AND LARGE CONSTRUCTION SITES. WE ARE THOROUGH AND DETAILED IN\nOUR PROFESSIONAL PAINTING SERVICES AND LITERALLY LEAVE LASTING IMPRESSIONS WITH OUR CLIENTS\nTHROUGHOUT VANCOUVER AND THE FRASER VALLEY."
+                        "WE PROVIDE SERVICES TO HOME OWNERS, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,\nPROPERTY MANAGEMENT COMPANIES & BUILDING OWNERS.\nSYNERGY PAINTING HAS THE EXPERTISE REQUIRED TO MANAGE ANY PROJECT SIZE & SCALE FROM A HOME\nRENOVATION TO SMALL, MEDIUM AND LARGE CONSTRUCTION SITES. WE ARE THOROUGH AND DETAILED IN\nOUR PROFESSIONAL PAINTING SERVICES AND LITERALLY LEAVE LASTING IMPRESSIONS WITH OUR CLIENTS\nTHROUGHOUT VANCOUVER AND THE FRASER VALLEY."
                       )
                     ])
                   ]
@@ -47814,7 +47822,13 @@ var staticRenderFns = [
               ])
             ])
           ])
-        ])
+        ]),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br")
       ]
     )
   }
@@ -48118,6 +48132,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 //
 //
 //
+//
+//
 
 /* harmony default export */ __webpack_exports__["default"] = ({
     mounted: function mounted() {
@@ -48137,687 +48153,726 @@ var render = function() {
     "div",
     { staticClass: "container-fluid", attrs: { id: "projects-page" } },
     [
-      _c("div", { staticClass: "container" }, [
-        _c("div", { staticClass: "row mt-5 mb-5" }, [
-          _c("div", { staticClass: "col-12 text-center" }, [
-            _c("div", { staticClass: "row mt-2 mb-2" }, [
-              _c("div", { staticClass: "col-md-12" }, [
-                _c("h2", { staticClass: "h2-responsive elegant-text" }, [
-                  _vm._v("PROJECT GALLERY")
-                ]),
-                _vm._v(" "),
-                _vm._m(0),
-                _vm._v(" "),
-                _c("p", [
-                  _vm._v(
-                    "WE PAINT RESIDENTIAL SINGLE HOUSES, DUPLEXES, MULTI-FAMILY, LANE HOMES OF ALL SHAPES AND SIZES,\n        INSIDE AND OUTSIDE."
-                  )
-                ]),
-                _vm._v(" "),
-                _c(
-                  "div",
-                  {
-                    staticClass: "col-md-8 offset-md-2 mx-auto mb-1 text-center"
-                  },
-                  [
-                    _c(
-                      "div",
-                      {
-                        staticClass: "carousel slide carousel-fade",
-                        attrs: {
-                          id: "projects-carousel",
-                          "data-ride": "carousel"
-                        }
-                      },
-                      [
-                        _c(
-                          "div",
-                          {
-                            staticClass: "carousel-inner",
-                            attrs: { role: "listbox" }
-                          },
-                          [
-                            _c("div", { staticClass: "carousel-item active" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/fairmont_hotel_penhouse_painting.jpg",
-                                            alt: "Project gallery Image one"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(1)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/fairmont_hotel_pentouse_painting_commerical_residential.jpg",
-                                            alt:
-                                              "Project gallery Fair mont Hotel, Pent house Painting, Commercial, ressidential"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(2)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/penthouse_commercial_building.jpg",
-                                            alt:
-                                              "Project Gallery Penthouse, Commercial, Building"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(3)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "carousel-item" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/penthouse_building_commercial.jpg",
-                                            alt:
-                                              "Project gallery Penthouse, Building, Commercial"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(4)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/building_commerical_penthouse.jpg",
-                                            alt:
-                                              "Project gallery Building, Commercial, Penthouse"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(5)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/before_tall_timbers_strata.jpg",
-                                            alt:
-                                              "Project Gallery Before Tall Timbers Strata"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(6)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "carousel-item" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/commercial_stairwell.jpg",
-                                            alt:
-                                              "Project gallery Commercial Stairwell"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(7)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/commericial_painting_stairwell.jpg",
-                                            alt:
-                                              "Project gallery Commercial Painting Stairwell"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(8)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/penthouse_building_commercial.jpg",
-                                            alt:
-                                              "Project Gallery Penthouse, Building, Commercial"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(9)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "carousel-item" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/residential_painters.jpg",
-                                            alt:
-                                              "Project gallery Residential Painters"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(10)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/residential_painters_townhomes.jpg",
-                                            alt:
-                                              "Project gallery Commercial Painting Stairwell"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(11)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/residential_painters_townhomes_condos.jpg",
-                                            alt:
-                                              "Project Gallery Penthouse, Building, Commercial"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(12)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "carousel-item" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1 "
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/after_tall_timbers_residential.jpg",
-                                            alt:
-                                              "Project gallery After Tall Timbers Residential"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(13)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/after_tall_timbers_townhouse.jpeg",
-                                            alt:
-                                              "Project gallery After Tall Timbers Townhomes"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(14)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/before_tall_timbers.jpg",
-                                            alt:
-                                              "Project Gallery Before Tall Timbers"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(15)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ]),
-                            _vm._v(" "),
-                            _c("div", { staticClass: "carousel-item" }, [
-                              _c("div", { staticClass: "row" }, [
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1 "
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/Room_Wall_Specials.jpg",
-                                            alt: "Room Wall Specials"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(16)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center  mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src:
-                                              "img-assets/1_floor_specials.jpg",
-                                            alt: "1 Floor Specials"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(17)
-                                      ]
-                                    )
-                                  ]
-                                ),
-                                _vm._v(" "),
-                                _c(
-                                  "div",
-                                  {
-                                    staticClass:
-                                      "col-md-4 text-center mx-auto mb-1"
-                                  },
-                                  [
-                                    _c(
-                                      "div",
-                                      {
-                                        staticClass:
-                                          "view overlay hm-blue-light"
-                                      },
-                                      [
-                                        _c("img", {
-                                          staticClass: "img-fluid",
-                                          attrs: {
-                                            src: "img-assets/Office_Paint.jpg",
-                                            alt: "Office Specials"
-                                          }
-                                        }),
-                                        _vm._v(" "),
-                                        _c("div", {
-                                          staticClass: "mask rgba-black-slight"
-                                        }),
-                                        _vm._v(" "),
-                                        _vm._m(18)
-                                      ]
-                                    )
-                                  ]
-                                )
-                              ])
-                            ])
-                          ]
-                        )
-                      ]
+      _c("div", { staticClass: "row" }, [
+        _c("div", { staticClass: "container" }, [
+          _c("div", { staticClass: "row" }, [
+            _c("div", { staticClass: "col-12 text-center" }, [
+              _c("div", { staticClass: "row mt-2 mb-2" }, [
+                _c("div", { staticClass: "col-md-12" }, [
+                  _c("br"),
+                  _c("br"),
+                  _c("br"),
+                  _c("br"),
+                  _c("br"),
+                  _c("br"),
+                  _vm._v(" "),
+                  _c("h2", { staticClass: "h2-responsive elegant-text" }, [
+                    _vm._v("PROJECT GALLERY")
+                  ]),
+                  _vm._v(" "),
+                  _vm._m(0),
+                  _vm._v(" "),
+                  _c("p", [
+                    _vm._v(
+                      "WE PAINT RESIDENTIAL SINGLE HOUSES, DUPLEXES, MULTI-FAMILY, LANE HOMES OF ALL SHAPES AND SIZES,\n            INSIDE AND OUTSIDE."
                     )
-                  ]
-                )
+                  ]),
+                  _vm._v(" "),
+                  _c(
+                    "div",
+                    {
+                      staticClass:
+                        "col-md-8 offset-md-2 mx-auto mb-1 text-center"
+                    },
+                    [
+                      _c(
+                        "div",
+                        {
+                          staticClass: "carousel slide carousel-fade",
+                          attrs: {
+                            id: "projects-carousel",
+                            "data-ride": "carousel"
+                          }
+                        },
+                        [
+                          _c(
+                            "div",
+                            {
+                              staticClass: "carousel-inner",
+                              attrs: { role: "listbox" }
+                            },
+                            [
+                              _c(
+                                "div",
+                                { staticClass: "carousel-item active" },
+                                [
+                                  _c("div", { staticClass: "row" }, [
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "col-md-4 text-center  mx-auto mb-1"
+                                      },
+                                      [
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "view overlay hm-blue-light"
+                                          },
+                                          [
+                                            _c("img", {
+                                              staticClass: "img-fluid",
+                                              attrs: {
+                                                src:
+                                                  "img-assets/fairmont_hotel_penhouse_painting.jpg",
+                                                alt: "Project gallery Image one"
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("div", {
+                                              staticClass:
+                                                "mask rgba-black-slight"
+                                            }),
+                                            _vm._v(" "),
+                                            _vm._m(1)
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "col-md-4 text-center  mx-auto mb-1"
+                                      },
+                                      [
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "view overlay hm-blue-light"
+                                          },
+                                          [
+                                            _c("img", {
+                                              staticClass: "img-fluid",
+                                              attrs: {
+                                                src:
+                                                  "img-assets/fairmont_hotel_pentouse_painting_commerical_residential.jpg",
+                                                alt:
+                                                  "Project gallery Fair mont Hotel, Pent house Painting, Commercial, ressidential"
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("div", {
+                                              staticClass:
+                                                "mask rgba-black-slight"
+                                            }),
+                                            _vm._v(" "),
+                                            _vm._m(2)
+                                          ]
+                                        )
+                                      ]
+                                    ),
+                                    _vm._v(" "),
+                                    _c(
+                                      "div",
+                                      {
+                                        staticClass:
+                                          "col-md-4 text-center mx-auto mb-1"
+                                      },
+                                      [
+                                        _c(
+                                          "div",
+                                          {
+                                            staticClass:
+                                              "view overlay hm-blue-light"
+                                          },
+                                          [
+                                            _c("img", {
+                                              staticClass: "img-fluid",
+                                              attrs: {
+                                                src:
+                                                  "img-assets/penthouse_commercial_building.jpg",
+                                                alt:
+                                                  "Project Gallery Penthouse, Commercial, Building"
+                                              }
+                                            }),
+                                            _vm._v(" "),
+                                            _c("div", {
+                                              staticClass:
+                                                "mask rgba-black-slight"
+                                            }),
+                                            _vm._v(" "),
+                                            _vm._m(3)
+                                          ]
+                                        )
+                                      ]
+                                    )
+                                  ])
+                                ]
+                              ),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "carousel-item" }, [
+                                _c("div", { staticClass: "row" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/penthouse_building_commercial.jpg",
+                                              alt:
+                                                "Project gallery Penthouse, Building, Commercial"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(4)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/building_commerical_penthouse.jpg",
+                                              alt:
+                                                "Project gallery Building, Commercial, Penthouse"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(5)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/before_tall_timbers_strata.jpg",
+                                              alt:
+                                                "Project Gallery Before Tall Timbers Strata"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(6)
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "carousel-item" }, [
+                                _c("div", { staticClass: "row" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/commercial_stairwell.jpg",
+                                              alt:
+                                                "Project gallery Commercial Stairwell"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(7)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/commericial_painting_stairwell.jpg",
+                                              alt:
+                                                "Project gallery Commercial Painting Stairwell"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(8)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/penthouse_building_commercial.jpg",
+                                              alt:
+                                                "Project Gallery Penthouse, Building, Commercial"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(9)
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "carousel-item" }, [
+                                _c("div", { staticClass: "row" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/residential_painters.jpg",
+                                              alt:
+                                                "Project gallery Residential Painters"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(10)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/residential_painters_townhomes.jpg",
+                                              alt:
+                                                "Project gallery Commercial Painting Stairwell"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(11)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/residential_painters_townhomes_condos.jpg",
+                                              alt:
+                                                "Project Gallery Penthouse, Building, Commercial"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(12)
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "carousel-item" }, [
+                                _c("div", { staticClass: "row" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1 "
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/after_tall_timbers_residential.jpg",
+                                              alt:
+                                                "Project gallery After Tall Timbers Residential"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(13)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/after_tall_timbers_townhouse.jpeg",
+                                              alt:
+                                                "Project gallery After Tall Timbers Townhomes"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(14)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/before_tall_timbers.jpg",
+                                              alt:
+                                                "Project Gallery Before Tall Timbers"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(15)
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ]),
+                              _vm._v(" "),
+                              _c("div", { staticClass: "carousel-item" }, [
+                                _c("div", { staticClass: "row" }, [
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1 "
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/Room_Wall_Specials.jpg",
+                                              alt: "Room Wall Specials"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(16)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center  mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/1_floor_specials.jpg",
+                                              alt: "1 Floor Specials"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(17)
+                                        ]
+                                      )
+                                    ]
+                                  ),
+                                  _vm._v(" "),
+                                  _c(
+                                    "div",
+                                    {
+                                      staticClass:
+                                        "col-md-4 text-center mx-auto mb-1"
+                                    },
+                                    [
+                                      _c(
+                                        "div",
+                                        {
+                                          staticClass:
+                                            "view overlay hm-blue-light"
+                                        },
+                                        [
+                                          _c("img", {
+                                            staticClass: "img-fluid",
+                                            attrs: {
+                                              src:
+                                                "img-assets/Office_Paint.jpg",
+                                              alt: "Office Specials"
+                                            }
+                                          }),
+                                          _vm._v(" "),
+                                          _c("div", {
+                                            staticClass:
+                                              "mask rgba-black-slight"
+                                          }),
+                                          _vm._v(" "),
+                                          _vm._m(18)
+                                        ]
+                                      )
+                                    ]
+                                  )
+                                ])
+                              ])
+                            ]
+                          )
+                        ]
+                      )
+                    ]
+                  )
+                ])
               ])
             ])
           ])
         ])
-      ])
+      ]),
+      _c("br"),
+      _c("br"),
+      _c("br"),
+      _c("br"),
+      _c("br"),
+      _c("br")
     ]
   )
 }
@@ -49184,8 +49239,12 @@ var staticRenderFns = [
       "div",
       { staticClass: "container-fluid", attrs: { id: "about-page" } },
       [
-        _c("div", { staticClass: "row mt-5" }, [
+        _c("div", { staticClass: "row" }, [
           _c("div", { staticClass: "col-md-6 offset-md-3 text-center" }, [
+            _c("br"),
+            _c("br"),
+            _c("br"),
+            _c("br"),
             _c("br"),
             _c("br"),
             _vm._v(" "),
@@ -49200,12 +49259,18 @@ var staticRenderFns = [
               _vm._v(" "),
               _c("p", [
                 _vm._v(
-                  "SYNERGY PAINTING HAS BEEN IN THE PAINTNG INDUSTRY SINCE 2009. WITH OUR DECADE OF EXPERIENCE WE CAN GUARANTEE\nA PROFESSIONAL GRADE, HIGH QUALITY PAININTING EVERY TIME. WE PROVIDE A THOROUGH EVALUATION OF THE WORK THAT\nYOU WOULD LIKE TO GET AND WE SPEND THE TIME MAKING EVERY PROJECT IMPRESSIONABLE TO THE HOME, STRATA OR\nCOMMERCIAL OWNER."
+                  "SYNERGY PAINTING HAS BEEN IN THE PAINTNG INDUSTRY SINCE 2009. WITH OUR DECADE OF EXPERIENCE WE CAN GUARANTEE\nA PROFESSIONAL GRADE, HIGH QUALITY PAINTING EVERY TIME. WE PROVIDE A THOROUGH EVALUATION OF THE WORK THAT\nYOU WOULD LIKE TO GET DONE AND WE SPEND THE TIME MAKING EVERY PROJECT IMPRESSIONABLE TO THE HOME, STRATA OR\nCOMMERCIAL OWNER."
                 )
               ])
             ])
           ])
-        ])
+        ]),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br"),
+        _c("br")
       ]
     )
   }
@@ -49342,7 +49407,7 @@ var staticRenderFns = [
       _vm._v(" "),
       _c("p", [
         _vm._v(
-          "WE PROVIDE OUR SERVICES IN VANCOUVER, RICHMOND, TSAWASSEN, DELTA, BURNABY & THE TRI-CITIES, & THE REST OF THE FRASER\n            VALLEY."
+          "WE PROVIDE OUR SERVICES IN VANCOUVER, RICHMOND, TSAWWASSEN, DELTA, BURNABY & THE TRI-CITIES, & THE REST OF THE FRASER\n            VALLEY."
         )
       ])
     ])

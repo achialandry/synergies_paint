@@ -20,7 +20,9 @@ div.black-text{
     color: #333b49;
 }
 
-
+div.info-bg{
+    opacity: 0.8;
+}
 
 /*carousel on project page*/
 
@@ -33,6 +35,15 @@ div#services-page {
             background-size: cover;
             word-wrap: break-word;
         }
+
+div#projects-page {
+                    background: url("../img-assets/syn_back.jpg")no-repeat center center;
+                    -webkit-background-size: cover;
+                    -moz-background-size: cover;
+                    -o-background-size: cover;
+                    background-size: cover;
+                    word-wrap: break-word;
+                }
 
 div#contact-page {
                     background: url("../img-assets/Contact_page_background.jpg")no-repeat center center;

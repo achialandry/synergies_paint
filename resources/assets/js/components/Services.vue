@@ -1,19 +1,19 @@
 <template>
     <!-- Services================================================== -->
           <div class="container-fluid" id="services-page">
-              <div class="row">
+              <div class="row"><br><br><br><br><br><br><br><br>
                   <div class="col-md-3 offset-md-6 col-sm-4 mx-auto text-center mt-5"><br>
                       <h1 class="h1-responsive white-text">Services</h1>
                       <hr class="services">
                   </div>
               </div>
-              <div class="row mb-2">
+              <div class="row mb-0">
                   <div class="col-md-6 offset-md-3 ">
                       <div class="container">
                           <div class="row">
                               <div class="col-md-12 text-center ml-0 pl-0 mr pr-0">
-                                  <h6 class="h6-responsive white-text">WE PROVIDE SERVICES TO HOME, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,
-    PROPERTY MANAGEMENT COMPANIES & BUILDING ONWERS.
+                                  <h6 class="h6-responsive white-text">WE PROVIDE SERVICES TO HOME OWNERS, STRATA PROPERTIES, GENERAL CONTRACTORS, INTERIOR DESIGNERS,
+    PROPERTY MANAGEMENT COMPANIES & BUILDING OWNERS.
     SYNERGY PAINTING HAS THE EXPERTISE REQUIRED TO MANAGE ANY PROJECT SIZE & SCALE FROM A HOME
     RENOVATION TO SMALL, MEDIUM AND LARGE CONSTRUCTION SITES. WE ARE THOROUGH AND DETAILED IN
     OUR PROFESSIONAL PAINTING SERVICES AND LITERALLY LEAVE LASTING IMPRESSIONS WITH OUR CLIENTS
@@ -87,10 +87,9 @@
                                   </div>
                               </div>
                           </div>
-
                       </div>
                   </div>
-              </div>
+              </div><br><br><br><br><br><br>
           </div>
 </template>
 
